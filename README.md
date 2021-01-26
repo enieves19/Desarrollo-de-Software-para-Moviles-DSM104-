@@ -4,7 +4,7 @@ En el presente repositorio, se estarán subiendo todo el contenido de la asignat
 
 ## SOLUCION CORRESPONDIENTE A LA GUIA NUMERO UNO , INTRODUCCION A JAVA
 
-Mi Nombre es: Edgardo Amilcar Nieves Kamada
+Nombre: Edgardo Amilcar Nieves Kamada
 Carnet: NK130207
 Carrera: Ingeniería En Ciencias de la Computación
 Universidad Don Bosco
