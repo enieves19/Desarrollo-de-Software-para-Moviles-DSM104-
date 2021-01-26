@@ -6,8 +6,10 @@ En el presente repositorio, se estarán subiendo todo el contenido de la asignat
 Nombre: Edgardo Amilcar Nieves Kamada
 Carnet: NK130207 
 Carrera: Ingeniería En Ciencias de la Computación 
+GRUPO DE LABORATORIO : 02L
 
 Nombre: Andrés de Jesús Chapetón Mata 
 Carnet: CM160117 
 Carrera: Ingeniería En Ciencias de la Computación
+GRUPO DE LABORATORIO : 03L
 Universidad Don Bosco
