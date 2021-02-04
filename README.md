@@ -10,6 +10,8 @@ Nombre: Edgardo Amilcar Nieves Kamada
 Carnet: NK130207
 GRUPO DE LABORATORIO : 02L
 Carrera: Ingeniería En Ciencias de la Computación
+
+
 Nombre: Andrés de Jesús Chapetón Mata
 Carnet: CM160117
 GRUPO DE LABORATORIO : 03L
