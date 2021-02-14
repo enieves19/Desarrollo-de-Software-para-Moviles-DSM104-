@@ -9,6 +9,7 @@ En la presente rama se encuentra mi portafolio personal , asignado para la inves
 
 Nombre: Edgardo Amilcar Nieves Kamada
 Carnet: NK130207
+GRUPO DE TEORIA : 01T
 GRUPO DE LABORATORIO : 02L
 Carrera: Ingeniería En Ciencias de la Computación
 
