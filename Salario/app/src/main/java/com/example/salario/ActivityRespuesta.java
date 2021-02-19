@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+import android.widget.Toast;
 
 
 public class ActivityRespuesta extends AppCompatActivity {
@@ -43,7 +44,8 @@ public class ActivityRespuesta extends AppCompatActivity {
         }
 
     public void finalizar(View v) {
-        finish();
+        Toast.makeText(ActivityRespuesta.this,"REGRESANDO...", Toast.LENGTH_LONG).show();
+            finish();
     }
 
 }
