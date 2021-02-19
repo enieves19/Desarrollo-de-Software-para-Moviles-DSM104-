@@ -1,6 +1,6 @@
 # Desarrollo-de-Software-para-Moviles-DSM104-
 
-En la presente rama se encuentra mi portafolio personal , asignado para la investigacion de teoria.
+En la presente rama se encuentra la solucion a algunos ejercicios , asignado por el docente tanto en laboratorio / teoria.
 
 ## SOLUCION CORRESPONDIENTE AL PORTAFOLIO PERSONAL 
 
